@@ -1,3 +1,9 @@
+/**
+ *
+ *
+ * https://spring.io/blog/2017/03/29/spring-tips-the-spring-framework-utils-classes
+ *
+ */
 package com.chaoluo;
 
 import lombok.AllArgsConstructor;
